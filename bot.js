@@ -4,7 +4,7 @@ var prefix = "1";
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
- client.user.setGame('s!help | *By Kabo','https://www.twitch.tv/peery13');
+ client.user.setGame('1say | *By Kabo','https://www.twitch.tv/peery13');
   console.log('')
   console.log('')
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
